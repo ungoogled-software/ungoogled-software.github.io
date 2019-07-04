@@ -78,6 +78,7 @@ plugins:
   - jekyll-paginate
 
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
   - README.md
