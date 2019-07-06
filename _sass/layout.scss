@@ -35,16 +35,16 @@ header {
 	}
 
 	.company-name {
-		font-size: 1.7em;
-		line-height: 0;
+		font-size: 1.4em;
 
 		a {
 			display: inline-block;
 		}
 
-		img {
+		span {
 			display: block;
 			width: auto;
+			line-height: 1.8em;
 		}
 	}
 }
