@@ -84,8 +84,8 @@ exclude:
   - README.md
   - LICENCE
 
-# -----------
-# CloudCannon
+# ----------------
+# Custom variables
 
 social_icons:
   - Facebook
