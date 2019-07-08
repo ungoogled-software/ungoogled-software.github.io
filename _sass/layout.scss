@@ -5,7 +5,7 @@
 }
 
 .text-container {
-	max-width: 750px;
+	max-width: 810px;
 }
 
 .container {
@@ -69,7 +69,7 @@ header {
 }
 
 section {
-	padding: 100px 0;
+	padding: 70px 0;
 }
 
 section + section {
@@ -79,6 +79,9 @@ section + section {
 .subtext {
 	margin-top: 10px;
 	text-align: center;
+	font-weight: 300;
+	font-size: 1.38em;
+	line-height: 1.4em;
 }
 
 
@@ -140,6 +143,7 @@ blockquote:before {
 .page {
 	margin-bottom: 0;
 	padding-bottom: 80px;
+	font-size: 1.2em;
 }
 
 .center-text {

@@ -1,21 +1,21 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: ungoogled-chromium
+url: "https://ungoogled-software.github.io"
 baseurl:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Product marketing template for Jekyll.
+#logo: /siteicon.png
+description: Google Chromium, sans integration with Google
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: ungoogled-chromium
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/Eloston/ungoogled-chromium
 
 # -----
 # Build
@@ -88,14 +88,7 @@ exclude:
 # Custom variables
 
 social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
+  - GitHub
   - RSS
 
 _comments:

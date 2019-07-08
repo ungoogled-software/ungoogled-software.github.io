@@ -1,24 +1,24 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
-  highlight: false
-- name: Blog
-  link: /blog/
-  new_window: false
-  highlight: false
 - name: About
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
+- name: Features
+  link: /features/
   new_window: false
   highlight: false
-- name: Login
-  link: /
+- name: Downloads
+  link: /downloads/
+  new_window: false
+  highlight: false
+- name: FAQ
+  link: //ungoogled-software.github.io/ungoogled-chromium-wiki/faq
   new_window: true
   highlight: false
-- name: Sign Up
-  link: /
+- name: Support
+  link: //github.com/Eloston/ungoogled-chromium/blob/master/SUPPORT.md
+  new_window: true
+  highlight: false
+- name: GitHub
+  link: //github.com/Eloston/ungoogled-chromium
   new_window: true
   highlight: true

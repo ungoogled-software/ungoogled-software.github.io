@@ -36,19 +36,26 @@ h1 {
 
 h2 {
 	font-weight: 300;
-	font-size: 2.2em;
+	font-size: 2em;
 	margin: 0 0 30px 0;
 }
 
 h3 {
 	margin: 20px 0 10px 0;
+	font-size: 1.5em;
 }
 
 
 p, address {
-	font-size: 1.38em;
 	color: #666;
 	margin-bottom: 20px;
-	font-weight: 300;
-	line-height: 1.4em;
+	line-height: 1.5em;
+}
+
+section {
+	li {
+		color: #666;
+		font-weight: 300;
+		margin-bottom: 8px;
+	}
 }

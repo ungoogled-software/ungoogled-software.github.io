@@ -1,39 +1,35 @@
 - links:
-  - name: Pricing
-    link: /pricing/
-  - name: Blog
-    link: /blog/
   - name: About
     link: /about/
-  - name: Contact
-    link: /contact/
-- links:
-  - name: Login
-    link: /
-    new_window: true
-  - name: Sign Up
-    link: /
-    new_window: true
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
-- links:
-  - name: Facebook
-    link: https://facebook.com
-    new_window: true
-    social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com
-    social_icon: Twitter
-    new_window: true
-  - name: YouTube
-    link: https://youtube.com
-    social_icon: YouTube
-    new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
     new_window: false
+  - name: Features
+    link: /features/
+    new_window: false
+  - name: Downloads
+    link: /downloads/
+    new_window: false
+  - name: FAQ
+    link: //ungoogled-software.github.io/ungoogled-chromium-wiki/faq
+    new_window: true
+  - name: Support
+    link: //github.com/Eloston/ungoogled-chromium/blob/master/SUPPORT.md
+    new_window: true
+- links:
+  - name: Source Code
+    link: /source-code/
+    new_window: false
+  - name: Contributing
+    link: //github.com/Eloston/ungoogled-chromium/blob/master/docs/contributing.md
+    new_window: true
+  - name: Website Source Code
+    link: //github.com/ungoogled-software/ungoogled-software.github.io
+    new_window: true
+- links:
+  - name: GitHub
+    link: //github.com/Eloston/ungoogled-chromium
+    social_icon: GitHub
+    new_window: true
+#  - name: RSS
+#    link: /feed.xml
+#    social_icon: RSS
+#    new_window: false
