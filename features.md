@@ -53,4 +53,4 @@ In addition to the features introduced by ungoogled-chromium, ungoogled-chromium
 
 [See docs/platforms.md for a list of supported platforms](//github.com/Eloston/ungoogled-chromium/blob/master/docs/platforms.md).
 
-Other platforms are discussed and tracked in this repository's Issue Tracker. Learn more about using the Issue Tracker under the section [Contributing, Reporting, Contacting](#contributing-reporting-contacting).
+Other platforms are discussed and tracked in this repository's Issue Tracker. Learn more about using the Issue Tracker [in the Support page](//github.com/Eloston/ungoogled-chromium/blob/master/SUPPORT.md).
