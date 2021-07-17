@@ -27,8 +27,8 @@ Contents of this section:
 *These are the non-essential features introduced by ungoogled-chromium.*
 
 * Use HTTPS by default when a URL scheme is not provided (e.g. Omnibox, bookmarks, command-line)
-* Add *Suggestions URL* text field in the search engine editor (`chrome://settings/searchEngines`) for customizing search engine suggestions.
-* Add more URL schemes allowed to save page schemes.
+* Add *Suggestions URL* text field in the search engine editor (`chrome://settings/searchEngines`) for customizing search engine suggestions
+* Add more URL schemes allowed to save page schemes
 * Add Omnibox search provider "No Search" to allow disabling of searching
 * Add a custom cross-platform build configuration and packaging wrapper for Chromium. It currently supports many Linux distributions, macOS, and Windows. (See [docs/design.md](//github.com/Eloston/ungoogled-chromium/blob/master/docs/design.md) for details on the system.)
 * Force all pop-ups into tabs
@@ -46,7 +46,7 @@ In addition to the features introduced by ungoogled-chromium, ungoogled-chromium
 
 * [Inox patchset](//github.com/gcarq/inox-patchset)
 * [Bromite](//github.com/bromite/bromite)
-* [Debian](//tracker.debian.org/pkg/chromium-browser)
+* [Debian](//tracker.debian.org/pkg/chromium)
 * [Iridium Browser](//iridiumbrowser.de/)
 
 ### Supported Platforms and Distributions
