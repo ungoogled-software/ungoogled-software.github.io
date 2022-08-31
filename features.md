@@ -49,6 +49,6 @@ In addition to the features introduced by ungoogled-chromium, ungoogled-chromium
 
 ### Supported Platforms and Distributions
 
-[See docs/platforms.md for a list of supported platforms](//github.com/Eloston/ungoogled-chromium/blob/master/docs/platforms.md).
+[See docs/platforms.md for a list of supported platforms](//github.com/ungoogled-software/ungoogled-chromium/blob/master/docs/platforms.md).
 
-Other platforms are discussed and tracked in this repository's Issue Tracker. Learn more about using the Issue Tracker [in the Support page](//github.com/Eloston/ungoogled-chromium/blob/master/SUPPORT.md).
+Other platforms are discussed and tracked in this repository's Issue Tracker. Learn more about using the Issue Tracker [in the Support page](//github.com/ungoogled-software/ungoogled-chromium/blob/master/SUPPORT.md).
