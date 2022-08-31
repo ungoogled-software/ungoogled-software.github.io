@@ -3,7 +3,7 @@ title: Downloads
 description:
 ---
 
-#### [Downloads moved here](https://github.com/Eloston/ungoogled-chromium#downloads)
+#### [Downloads moved here](https://github.com/ungoogled-software/ungoogled-chromium#downloads)
 
 ### Source Code
 

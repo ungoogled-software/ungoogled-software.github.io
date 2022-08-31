@@ -7,7 +7,7 @@ description: A brief overview
 
 **ungoogled-chromium retains the default Chromium experience as closely as possible**. Unlike other Chromium forks that have their own visions of a web browser, ungoogled-chromium is essentially a drop-in replacement for Chromium.
 
-**Help is always welcome!** See the [docs/contributing.md](//github.com/Eloston/ungoogled-chromium/blob/master/docs/contributing.md) document for more information.
+**Help is always welcome!** See the [docs/contributing.md](//github.com/ungoogled-software/ungoogled-chromium/blob/master/docs/contributing.md) document for more information.
 
 ## Motivation and Philosophy
 
@@ -20,7 +20,7 @@ ungoogled-chromium addresses these issues in the following ways:
 3. Remove all uses of pre-made binaries from the source code, and replace them with user-provided alternatives when possible.
 4. Disable features that inhibit control and transparency, and add or modify features that promote them (these changes will almost always require manual activation or enabling).
 
-These features are implemented as configuration flags, patches, and custom scripts. For more details, consult the [Design Documentation](//github.com/Eloston/ungoogled-chromium/blob/master/docs/design.md).
+These features are implemented as configuration flags, patches, and custom scripts. For more details, consult the [Design Documentation](//github.com/ungoogled-software/ungoogled-chromium/blob/master/docs/design.md).
 
 <!--
 <ul class="staff">

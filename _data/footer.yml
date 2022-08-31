@@ -12,21 +12,21 @@
     link: //ungoogled-software.github.io/ungoogled-chromium-wiki/faq
     new_window: true
   - name: Support
-    link: //github.com/Eloston/ungoogled-chromium/blob/master/SUPPORT.md
+    link: //github.com/ungoogled-software/ungoogled-chromium/blob/master/SUPPORT.md
     new_window: true
 - links:
   - name: Source Code
     link: /source-code/
     new_window: false
   - name: Contributing
-    link: //github.com/Eloston/ungoogled-chromium/blob/master/docs/contributing.md
+    link: //github.com/ungoogled-software/ungoogled-chromium/blob/master/docs/contributing.md
     new_window: true
   - name: Website Source Code
     link: //github.com/ungoogled-software/ungoogled-software.github.io
     new_window: true
 - links:
   - name: GitHub
-    link: //github.com/Eloston/ungoogled-chromium
+    link: //github.com/ungoogled-software/ungoogled-chromium
     social_icon: GitHub
     new_window: true
 #  - name: RSS

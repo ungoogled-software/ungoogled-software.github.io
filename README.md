@@ -4,9 +4,9 @@ This is a basic website for ungoogled-chromium, based upon [Hydra by CloudCannon
 
 ## Develop
 
-This website was built with [Jekyll](http://jekyllrb.com/) version 3. but should support newer versions as well.
+This website was built with [Jekyll](https://jekyllrb.com/) version 3. but should support newer versions as well.
 
-Install the dependencies with [Bundler](http://bundler.io/):
+Install the dependencies with [Bundler](https://bundler.io/):
 
 ~~~bash
 $ bundle install

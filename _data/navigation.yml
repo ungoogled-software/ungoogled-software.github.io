@@ -15,10 +15,10 @@
   new_window: true
   highlight: false
 - name: Support
-  link: //github.com/Eloston/ungoogled-chromium/blob/master/SUPPORT.md
+  link: //github.com/ungoogled-software/ungoogled-chromium/blob/master/SUPPORT.md
   new_window: true
   highlight: false
 - name: GitHub
-  link: //github.com/Eloston/ungoogled-chromium
+  link: //github.com/ungoogled-software/ungoogled-chromium
   new_window: true
   highlight: true
